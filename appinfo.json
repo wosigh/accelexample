@@ -1,0 +1,11 @@
+{
+	"id": "org.webosinternals.accelexample",
+	"version": "0.0.1",
+	"vendor": "egaudet",
+	"type": "web",
+	"main": "index.html",
+	"title": "Acceleromoter Service Example",
+	"icon": "icon.png",
+	"minicon": "miniicon.png",
+	"category": "none"
+}
