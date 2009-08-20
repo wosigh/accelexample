@@ -1,11 +1,12 @@
 {
 	"id": "org.webosinternals.accelexample",
-	"version": "0.0.1",
-	"vendor": "egaudet",
-	"type": "web",
+	"version": "0.1.0",
+	"vendor": "Eric J. Gaudet",
+	"vendor_email":	"emoney_33@yahoo.com",
+	"vendor_url": "http://www.webos-internals.org/wiki/Application:AccelService",
+	"type": "System Utilities",
 	"main": "index.html",
-	"title": "Acceleromoter Service Example",
+	"title": "Accelerometer Service Example",
 	"icon": "icon.png",
 	"minicon": "miniicon.png",
-	"category": "none"
 }
